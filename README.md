@@ -16,4 +16,27 @@ curl -L https://raw.githubusercontent.com/123tool/NetHunter-Unified-System/refs/
 ## Instalasi Manual
 ```
 git clone https://github.com/123tool/NetHunter-Unified-System.git
-cd spy-e-unified-system
+cd NetHunter-Unified-System
+```
+- Eksekusi
+  ```
+  chmod +x spy-e-init.sh
+- Jalankan
+  ```
+  ./spy.sh
+
+## Penggunaan
+​Saat berjalan, sistem akan menanyakan apakah Anda ingin menginstal NetHunter.
+- ​Pilih y jika Anda membutuhkan tool pentesting berat (membutuhkan storage besar).
+- ​Pilih n jika Anda hanya ingin lingkungan ringan untuk menjalankan Node.js/GhostMailer.
+​
+
+​**Persyaratan**
+- ​Termux (Android) : Minimal versi terbaru dari F-Droid.
+- ​Linux : Ubuntu/Debian based (disarankan).
+- ​Storage: Minimal 500MB (Tanpa NetHunter) atau 10GB+ (Dengan NetHunter).
+
+
+​⚠️ Disclaimer
+
+**Sistem ini dibuat oleh (SPY-E) untuk tujuan pengembangan dan audit keamanan profesional. Penggunaan alat ini untuk tindakan ilegal sepenuhnya merupakan tanggung jawab pengguna.**
