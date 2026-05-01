@@ -20,7 +20,7 @@ cd NetHunter-Unified-System
 ```
 - Eksekusi
   ```
-  chmod +x spy-e-init.sh
+  chmod +x spy.sh
 - Jalankan
   ```
   ./spy.sh
