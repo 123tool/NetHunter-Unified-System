@@ -25,12 +25,6 @@ cd NetHunter-Unified-System
   ```
   ./spy.sh
 
-## Penggunaan
-​Saat berjalan, sistem akan menanyakan apakah Anda ingin menginstal NetHunter.
-- ​Pilih y jika Anda membutuhkan tool pentesting berat (membutuhkan storage besar).
-- ​Pilih n jika Anda hanya ingin lingkungan ringan untuk menjalankan Node.js/GhostMailer.
-​
-
 ​**Persyaratan**
 - ​Termux (Android) : Minimal versi terbaru dari F-Droid.
 - ​Linux : Ubuntu/Debian based (disarankan).
