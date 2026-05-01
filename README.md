@@ -6,9 +6,14 @@ Fondasi infrastruktur digital yang dirancang untuk menyatukan berbagai lingkunga
 - 🛡️ **Dual-Mode :** Deteksi otomatis mode Root dan Non-Root dengan penyesuaian izin akses sistem secara *real-time*.
 - 🐉 **NetHunter Deployment :** Modul opsional untuk menginstal lingkungan Kali NetHunter Rootless secara instan.
 
-## 📥 Instalasi
+## Instalasi
 
 Buka Termux atau Terminal Linux Anda, lalu tempelkan perintah sakti ini:
 
 ```bash
-curl -L [https://raw.githubusercontent.com/USERNAME-ANDA/spy-e-unified-system/main/spy-e-init.sh](https://raw.githubusercontent.com/USERNAME-ANDA/spy-e-unified-system/main/spy-e-init.sh) | bash
+curl -L https://raw.githubusercontent.com/123tool/NetHunter-Unified-System/refs/heads/main/spy.sh | bash
+```
+## Instalasi Manual
+```
+git clone https://github.com/123tool/NetHunter-Unified-System.git
+cd spy-e-unified-system
